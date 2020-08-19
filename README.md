@@ -8,3 +8,11 @@
 
 ## Rhubarb 
 - Requires lots of organic matter for growth.
+
+## Blueberries
+- Likes acidic food sources
+
+# Pests
+
+## Aphids
+- Spray water + dishwashing soap on stems and under leaves
