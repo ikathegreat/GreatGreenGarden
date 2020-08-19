@@ -1,7 +1,4 @@
-# GreatGreenGarden
-
-## Slugs
-- Cover the bottom of a pie pan or small tray with beer and leave out near affected plants.
+# Plants
 
 ## Tomatos
 - Tickle (or use an electric toothbrush on) almost bloomed flowers to encourage pollination. 
@@ -16,3 +13,6 @@
 
 ## Aphids
 - Spray water + dishwashing soap on stems and under leaves
+
+## Slugs
+- Cover the bottom of a pie pan or small tray with beer and leave out near affected plants.
